@@ -18,13 +18,13 @@ The following controllers are ready to go, just click on which one you want:
     * Any other settings are your choice
 * To customize the Xbox One Controller, set the following:
     * Skin: `Xbox One`
-    * Edit CSS URL: `https://undertowesports.github.io/gamepad-viewer/xbox-one/styles.css`
+    * Edit CSS URL: `https://GamePadViewerTom.github.io/gamepad-viewer/xbox-one/styles.css`
     * Any other settings are your choice
 
 ## Bugs
-If you have found a bug and would like to report it, [create an issue](https://github.com/undertowesports/gamepad-viewer/issues).
+If you have found a bug and would like to report it, [create an issue](https://github.com/GamePadViewerTom/gamepad-viewer/issues).
 
-If you have found a bug and would like to fix it, [create a pull request](https://github.com/undertowesports/gamepad-viewer/pulls).
+If you have found a bug and would like to fix it, [create a pull request](https://github.com/GamePadViewerTom/gamepad-viewer/pulls).
 
 
 #### License: MIT
