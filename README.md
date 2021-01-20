@@ -7,7 +7,8 @@ Remember to set the correct height and width in OBS so the controller is not cut
 ### Prebuilts
 The following controllers are ready to go, just click on which one you want:
 * [DualShock 4](http://gamepadviewer.com/?p=1&s=5&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fds4%2Fstyles.css) (`806x598`)
-* [Xbox One](http://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2Fundertowesports.github.io%2Fgamepad-viewer%2Fxbox-one%2Fstyles.css) (`750x630`)
+* [Xbox One](http://gamepadviewer.com/?p=1&s=1&editcss=https%3A%2F%2FGamePadViewerTom.github.io%2Fgamepad-viewer%2Fxbox-one%2Fstyles.css) (`750x630`)
+
 
 ### Advanced Setup
 * Open [Gamepad Viewer's Generator](http://gamepadviewer.com/#generate) in a new tab
