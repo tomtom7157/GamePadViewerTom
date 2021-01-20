@@ -18,7 +18,7 @@ The following controllers are ready to go, just click on which one you want:
     * Any other settings are your choice
 * To customize the Xbox One Controller, set the following:
     * Skin: `Xbox One`
-    * Edit CSS URL: `https://GamePadViewerTom.github.io/gamepad-viewer/xbox-one/styles.css`
+    * Edit CSS URL: `https://tomtom7157.github.io/GamePadViewerTom/xbox-one/styles.css`
     * Any other settings are your choice
 
 ## Bugs
